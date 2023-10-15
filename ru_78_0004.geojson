@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Имераторская линия Императорский вокзал – Варшавская ж.д. (в сторону ст. Шоссейная)"
+      },
       "geometry": {
         "coordinates": [
           [

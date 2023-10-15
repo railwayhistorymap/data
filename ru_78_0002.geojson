@@ -3,7 +3,8 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Царское Село – Павловск"},
       "geometry": {
         "coordinates": [
           [
