@@ -1,0 +1,20 @@
+{
+  "name": "railwayhistorymap.data",
+  "version": "0.0.1",
+  "description": "Railway History Map Data",
+  "scripts": {
+    "validate": "ts-node validator.ts"
+  },
+  "keywords": [
+    "railway",
+    "history",
+    "map",
+    "data"
+  ],
+  "author": "Alexey Gorshkov",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.9",
+    "ts-node": "^10.9.1"
+  }
+}
